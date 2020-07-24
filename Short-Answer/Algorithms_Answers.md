@@ -4,9 +4,9 @@
 
 a) O(n) - scales linear with size of n
 
-b) O(n^2) -
+b) O(n^2) - the runtime complexity = the number of times the inner loop runs
 
-c)
+c) O(n) -
 
 ## Exercise II
 
